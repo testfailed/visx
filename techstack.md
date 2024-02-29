@@ -3,27 +3,27 @@
 ## Tech Stack
 todaypp/visx is built on the following main stack:
 
-- [Coveralls](https://coveralls.io/) – Code Coverage
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [React](https://reactjs.org/) – Javascript UI Libraries
 - [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Coveralls](https://coveralls.io/) – Code Coverage
 - [ESLint](http://eslint.org/) – Code Review
 - [Enzyme](https://enzymejs.github.io/enzyme/) – Javascript Testing Framework
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Happo.io](https://happo.io/) – Testing Frameworks
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Jetpack](https://github.com/KidkArolis/jetpack) – JS Build Tools / JS Task Runners
+- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
 - [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
 - [Vercel](https://vercel.com/) – Static Web Hosting
-- [Recompose](https://github.com/acdlite/recompose) – Javascript Utilities & Libraries
-- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
-- [Happo.io](https://happo.io/) – Testing Frameworks
+- [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 - [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
-- [Jetpack](https://github.com/KidkArolis/jetpack) – JS Build Tools / JS Task Runners
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Recompose](https://github.com/acdlite/recompose) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -33,27 +33,27 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 todaypp/visx is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/4488/default_87e6ca3fa146a959af95ccf3df1ec550eb434129.png' alt='Enzyme'/> [Enzyme](https://enzymejs.github.io/enzyme/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/10001/68747470733a2f2f686170706f2e696f2f7374617469632f686170706f2d686970706f2e706e67.png' alt='Happo.io'/> [Happo.io](https://happo.io/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/10139/jetpack.png' alt='Jetpack'/> [Jetpack](https://github.com/KidkArolis/jetpack) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/5936/nextjs.png' alt='Next.js'/> [Next.js](https://nextjs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg' alt='Lerna'/> [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
 - <img width='25' height='25' src='https://img.stackshare.io/service/7618/bHjpwZem_400x400.png' alt='Vercel'/> [Vercel](https://vercel.com/) – Static Web Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/7756/no-img-open-source.png' alt='Recompose'/> [Recompose](https://github.com/acdlite/recompose) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
-- <img width='25' height='25' src='https://img.stackshare.io/service/10001/68747470733a2f2f686170706f2e696f2f7374617469632f686170706f2d686970706f2e706e67.png' alt='Happo.io'/> [Happo.io](https://happo.io/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg' alt='Lerna'/> [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/10139/jetpack.png' alt='Jetpack'/> [Jetpack](https://github.com/KidkArolis/jetpack) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/7756/no-img-open-source.png' alt='Recompose'/> [Recompose](https://github.com/acdlite/recompose) – Javascript Utilities & Libraries
 
 Full tech stack [here](/techstack.md)
 
@@ -64,7 +64,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [todaypp/visx](https://github.com/todaypp/visx)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|73<br/>Tools used|01/23/24 <br/>Report generated|
+|73<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
